@@ -41,4 +41,9 @@ public class MatrixProcessor {
     public static int multiply(int[] v,int n) {
         throw new NotImplementedException();
     }
+
+    // Created random vector with `size` dimensions and length equal to 1
+    public static int[] createRandomUnitVector(int size) {
+        throw new NotImplementedException();
+    }
 }
